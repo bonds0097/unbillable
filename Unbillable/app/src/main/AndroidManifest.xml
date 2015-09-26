@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.bonds0097.unbillable">
+
+    <application android:allowBackup="true" android:label="@string/app_name"
+        android:icon="@drawable/ic_launcher" android:theme="@style/AppTheme">
+        <meta-data android:name="com.saurik.substrate.main"
+            android:value=".Main"/>
+    </application>
+
+    <uses-permission android:name="cydia.permission.SUBSTRATE"/>
+</manifest>

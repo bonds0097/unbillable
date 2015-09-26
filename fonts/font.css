@@ -1,0 +1,64 @@
+@font-face {
+	font-family: 'Droid Serif';
+	font-style: italic;
+	font-weight: 400,700,400;
+	src:
+		local('Droid Serif
+Droid Serif Bold
+Droid Serif Italic'),
+		local('DroidSerif
+DroidSerif-Bold
+DroidSerif-Italic'),
+		/* from http://fonts.gstatic.com/s/droidserif/v6/0AKsP294HTD-nvJgucYTaGfQcKutQXcIrRfyR5jdjY8.eot */
+		url('Droid_Serif_400,700,400italic.eot?#iefix') format('embedded-opentype'),
+		/* from http://fonts.gstatic.com/s/droidserif/v6/0AKsP294HTD-nvJgucYTaIbN6UDyHWBl620a-IRfuBk.woff
+http://fonts.gstatic.com/s/droidserif/v6/QQt14e8dY39u-eYBZmppwTqR_3kx9_hJXbbyU8S6IN0.woff
+http://fonts.gstatic.com/s/droidserif/v6/cj2hUnSRBhwmSPr9kS5899kZXW4sYc4BjuAIFc1SXII.woff */
+		url('Droid_Serif_400,700,400italic.woff') format('woff'),
+		/* from http://fonts.gstatic.com/s/droidserif/v6/0AKsP294HTD-nvJgucYTaJ0EAVxt0G0biEntp43Qt6E.ttf
+http://fonts.gstatic.com/s/droidserif/v6/QQt14e8dY39u-eYBZmppwZ_TkvowlIOtbR7ePgFOpF4.ttf
+http://fonts.gstatic.com/s/droidserif/v6/cj2hUnSRBhwmSPr9kS589-LrC4Du4e_yfTJ8Ol60xk0.ttf */
+		url('Droid_Serif_400,700,400italic.ttf') format('truetype'),
+		/* from http://fonts.gstatic.com/l/font?kit=0AKsP294HTD-nvJgucYTaHNsigHlcrQGNV8nkUSFQfc&skey=a46d7e8bf49adcd6#DroidSerif */
+		url('Droid_Serif_400,700,400italic.svg#DroidSerif') format('svg');
+}
+@font-face {
+	font-family: 'Ubuntu Mono';
+	font-style: italic;
+	font-weight: 400,700,400;
+	src:
+		local('Ubuntu Mono
+Ubuntu Mono Bold
+Ubuntu Mono Italic'),
+		local('UbuntuMono-Regular
+UbuntuMono-Bold
+UbuntuMono-Italic'),
+		/* from http://fonts.gstatic.com/s/ubuntumono/v6/ViZhet7Ak-LRXZMXzuAfkWfQcKutQXcIrRfyR5jdjY8.eot */
+		url('Ubuntu_Mono_400,700,400italic.eot?#iefix') format('embedded-opentype'),
+		/* from http://fonts.gstatic.com/s/ubuntumono/v6/KAKuHXAHZOeECOWAHsRKA9kZXW4sYc4BjuAIFc1SXII.woff
+http://fonts.gstatic.com/s/ubuntumono/v6/ViZhet7Ak-LRXZMXzuAfkYbN6UDyHWBl620a-IRfuBk.woff
+http://fonts.gstatic.com/s/ubuntumono/v6/ceqTZGKHipo8pJj4molytjqR_3kx9_hJXbbyU8S6IN0.woff */
+		url('Ubuntu_Mono_400,700,400italic.woff') format('woff'),
+		/* from http://fonts.gstatic.com/s/ubuntumono/v6/KAKuHXAHZOeECOWAHsRKA-LrC4Du4e_yfTJ8Ol60xk0.ttf
+http://fonts.gstatic.com/s/ubuntumono/v6/ViZhet7Ak-LRXZMXzuAfkZ0EAVxt0G0biEntp43Qt6E.ttf
+http://fonts.gstatic.com/s/ubuntumono/v6/ceqTZGKHipo8pJj4molytp_TkvowlIOtbR7ePgFOpF4.ttf */
+		url('Ubuntu_Mono_400,700,400italic.ttf') format('truetype'),
+		/* from http://fonts.gstatic.com/l/font?kit=ViZhet7Ak-LRXZMXzuAfkXNsigHlcrQGNV8nkUSFQfc&skey=8c1feb82f3a61020#UbuntuMono */
+		url('Ubuntu_Mono_400,700,400italic.svg#UbuntuMono') format('svg');
+}
+@font-face {
+	font-family: 'Yanone Kaffeesatz';
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local('Yanone Kaffeesatz Regular'),
+		local('YanoneKaffeesatz-Regular'),
+		/* from http://fonts.gstatic.com/s/yanonekaffeesatz/v7/YDAoLskQQ5MOAgvHUQCcLbcQawGFB1zaa2VYh64hVv8.eot */
+		url('Yanone_Kaffeesatz.eot?#iefix') format('embedded-opentype'),
+		/* from http://fonts.gstatic.com/s/yanonekaffeesatz/v7/YDAoLskQQ5MOAgvHUQCcLRTHiN2BPBirwIkMLKUspj4.woff */
+		url('Yanone_Kaffeesatz.woff') format('woff'),
+		/* from http://fonts.gstatic.com/s/yanonekaffeesatz/v7/YDAoLskQQ5MOAgvHUQCcLbvy90DtE_Pg_qiF9bHvTzw.ttf */
+		url('Yanone_Kaffeesatz.ttf') format('truetype'),
+		/* from http://fonts.gstatic.com/l/font?kit=YDAoLskQQ5MOAgvHUQCcLVo5cPwm5NmpXPRhl3HDdWE&skey=3fc37ea29e333560#YanoneKaffeesatz */
+		url('Yanone_Kaffeesatz.svg#YanoneKaffeesatz') format('svg');
+}
